@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucid-kepler-3ccdfc.netlify.app/sitemap.xml
