@@ -58,8 +58,8 @@ Speaker Bio TBD
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nusgreyhats.org/posts/secweds/ay2122s1/sw1310/</guid>
-      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZYlcOGgqD0uE92f8XqUGuNxqs_luTfK5aeJ
-Talk 1: 7:00pm-7:45pm Title: A Guide on Antivirus Evasion
+      <description>Talk 1: 7:00pm-7:45pm Title: A Guide on Antivirus Evasion
+Download Slides
 Description Antivirus evasion is crucial in many cybersecurity research and operations. For example, red team exercises are often conducted in a hardened production environment. While open-source tools may help in the enumeration or exploitations of services, they are often detected and flagged by antivirus.
 In this talk, we will look into manual and partially automated ways to achieve antivirus evasion.</description>
     </item>
