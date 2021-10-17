@@ -46,10 +46,9 @@ Speaker Bio Tan Jia Le is a Year 2 Information Security student at the National 
       
       <guid>https://nusgreyhats.org/posts/secweds/ay2122s1/sw2010/</guid>
       <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZMude-qrDIjG933gdJx5SFt4ebRdEnG1k-p
-Talk: 7:00pm-8:30pm Title: TBD
-Description TBD
-Speaker Bio TBD
- </description>
+Talk 1: 7 PM to 7:35 PM Title: Cryptography - Diophantine equation
+Description Diophantine equation is an equation where only the integer solutions matter. This has shown up in various cryptographical schemes like RSA, Diffie Hellman Key Exchange, and Elliptic Curve Cryptography. In this talk, Kel Zin will analyze some interesting CTF problems related to diophantine equation.
+Speaker Kel Zin is a Year 2 NUS Computer Science student and a member of Greyhats.</description>
     </item>
     
     <item>
