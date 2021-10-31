@@ -17,13 +17,11 @@
       
       <guid>https://nusgreyhats.org/posts/secweds/ay2122s1/sw0311/</guid>
       <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZAsduygpjsvEtKjXX3Wdid5-jBLVkt1mRMw
-Talk: 7:00pm-7:45pm Title: TBD
-Description TBD
-Speaker Bio TBD
- Talk: 7:45pm-8:30pm Title: TBD
-Description TBD
-Speaker Bio TBD
- </description>
+Talk: 7:00pm-7:45pm Title: SecWed Mini CTF
+Description To end off Security Wednesdays for this semester, We will be having a mini CTF session where the participants will get time to try out different challenges.
+Nearer to the end of the session, we will be going through the answers for each of the CTF challenges.
+ Talk: 7:45pm-8:30pm Title: Source Engine code auditing adventure
+Description In this talk I will talk about the Source Engine, the leaked codebase and how I audited it to find vulnerabilities.</description>
     </item>
     
     <item>
