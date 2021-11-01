@@ -23,6 +23,15 @@ Requirements The participants should have basic knowledge on C/C++, basic knowle
     </item>
     
     <item>
+      <title>Basic LLDB Scripting</title>
+      <link>https://nusgreyhats.org/posts/writeups/basic-lldb-scripting/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/writeups/basic-lldb-scripting/</guid>
+      <description>Basic knowledge to get started with LLDB scripting</description>
+    </item>
+    
+    <item>
       <title>SecWed #271021</title>
       <link>https://nusgreyhats.org/posts/secweds/ay2122s1/sw2710/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
